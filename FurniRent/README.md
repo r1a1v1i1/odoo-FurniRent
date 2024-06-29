@@ -7,11 +7,10 @@ This project is built by us (5 team members) during construct week of unit 3 at 
 Netlify link:- https://FurniRent-clone.netlify.app 
 
 ## Team Members.
-1.	Mr. Rahul Yadav.
-2.	Mr. Mallikarjuna Annigeri.
-3.	Mr. Rupesh Chavan.
-4.	Mr. Piyush Narkhede.
-5.	Mr. Raushan Kumar.
+1.	Mr. Meet Patel
+2.	Mr. Ravi Sanghani
+3.	Mr. Maulik Vara
+4.	Mr. Tanmay Shah
 
 ## Pages and Features
 
