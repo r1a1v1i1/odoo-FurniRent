@@ -1,5 +1,5 @@
 
-# FurniRent.com
+# FurniRent
 <p>	FurniRent is an online rental platform that provides furniture, appliances on a monthly rental basis. </p>
 
 ## About this project.
