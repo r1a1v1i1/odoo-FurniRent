@@ -1,10 +1,9 @@
 
 # FurniRent.com
-<p>	FurniRent is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis. </p>
+<p>	FurniRent is an online rental platform that provides furniture, appliances on a monthly rental basis. </p>
 
 ## About this project.
-This project is built by us (5 team members) during construct week of unit 3 at Masai School.
-Netlify link:- https://FurniRent-clone.netlify.app 
+This project is built by us (4 team members) during odoo Hackathon.
 
 ## Team Members.
 1.	Mr. Meet Patel
