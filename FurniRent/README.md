@@ -46,4 +46,4 @@ This project is built by us (4 team members) during odoo Hackathon.
 ###### • Slack and Zoom for communication.
 
 ## Feedback:
-If you want to suggest us anything or want to give us feedback then please connect us at yrahul9452@gmail.com, mallikarjunaannigeri27@gmail.com, piyushnarkhede02@gmail.com, rupeshchavan12498@gmail.com, sraushan890@gmail.com
+If you want to suggest us anything or want to give us feedback then please connect us at jasanghani126@gmail.com, meetpatel4384@gmail.com, maulikvara456@gmail.com, tanmayshah14024@gmail.com
